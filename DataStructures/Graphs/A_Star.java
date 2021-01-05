@@ -1,8 +1,9 @@
+package DataStructures.Graphs;
 /*
 	Time Complexity = O(E), where E is equal to the number of edges
 */
 
-package A_Star;
+
 
 import java.util.*;
 

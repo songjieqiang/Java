@@ -1,3 +1,4 @@
+package Others;
 /** @author Prateek Kumar Oraon (https://github.com/prateekKrOraon) */
 import java.util.Scanner;
 
